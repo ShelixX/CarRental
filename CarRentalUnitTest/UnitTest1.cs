@@ -9,7 +9,7 @@ namespace CarRentalUnitTest
     [TestClass]
     public class CarRentalUnitTest
     {
-        // Тест на проверку получение идентификатор пользователя в методе getUserInfo
+        // Тест на проверку получения идентификатора пользователя в методе getUserInfo
         [TestMethod]
         public void getUserInfo_UserIdIsNotNull()
         {
@@ -27,7 +27,7 @@ namespace CarRentalUnitTest
             Assert.AreEqual(3, form1.Role,  "Пользователь не клиент.");
         }
 
-        // Тест на проверку выбора исключения в случае ввода существущего номер телефона в методе numberCheck
+        // Тест на проверку выброса исключения в случае ввода существущего номер телефона в методе numberCheck
         [TestMethod]
         public void numberCheck_ThrowingAnException()
         {
@@ -52,7 +52,7 @@ namespace CarRentalUnitTest
             Assert.IsNotNull(form1.ComboBox4.Items, "Список с типами коробки передачи не заполнен.");
         }
 
-        // Тест на проверку очистку фильтрации по типу коробки передач
+        // Тест на проверку очистки фильтрации по типу коробки передач
         [TestMethod]
         public void clients_TransmissionTypeFilterClear()
         {
