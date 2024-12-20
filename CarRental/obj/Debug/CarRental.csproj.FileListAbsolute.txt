@@ -2,7 +2,6 @@ C:\Users\papav\OneDrive\Рабочий стол\Учебная практика\
 C:\Users\papav\OneDrive\Рабочий стол\Учебная практика\CarRental\CarRental\bin\Debug\CarRental.exe
 C:\Users\papav\OneDrive\Рабочий стол\Учебная практика\CarRental\CarRental\bin\Debug\CarRental.pdb
 C:\Users\papav\OneDrive\Рабочий стол\Учебная практика\CarRental\CarRental\obj\Debug\CarRental.csproj.AssemblyReference.cache
-C:\Users\papav\OneDrive\Рабочий стол\Учебная практика\CarRental\CarRental\obj\Debug\CarRental.Form1.resources
 C:\Users\papav\OneDrive\Рабочий стол\Учебная практика\CarRental\CarRental\obj\Debug\CarRental.Properties.Resources.resources
 C:\Users\papav\OneDrive\Рабочий стол\Учебная практика\CarRental\CarRental\obj\Debug\CarRental.csproj.GenerateResource.cache
 C:\Users\papav\OneDrive\Рабочий стол\Учебная практика\CarRental\CarRental\obj\Debug\CarRental.csproj.CoreCompileInputs.cache
@@ -53,3 +52,4 @@ C:\Users\Tamaz\Desktop\CarRental\CarRental\bin\Debug\System.Runtime.CompilerServ
 C:\Users\Tamaz\Desktop\CarRental\CarRental\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\Tamaz\Desktop\CarRental\CarRental\bin\Debug\System.ValueTuple.xml
 C:\Users\Tamaz\Desktop\CarRental\CarRental\obj\Debug\CarRental.csproj.CopyComplete
+C:\Users\papav\OneDrive\Рабочий стол\Учебная практика\CarRental\CarRental\obj\Debug\CarRental.CarRental.resources

@@ -13,7 +13,7 @@ using System.Runtime.CompilerServices;
 
 namespace CarRental
 {
-    public partial class Form1 : Form
+    public partial class CarRental : Form
     {
         // Строка подключения
         static string connectionString = "Data Source=(LocalDb)\\MSSQLLocalDB; Initial catalog=CarRental; Integrated Security=True";
@@ -33,7 +33,7 @@ namespace CarRental
         public DateTime DateTimePciker1MaxDate { get { return birthDateTimePicker1.MaxDate; } }
    
         // Конструктор формы
-        public Form1()
+        public CarRental()
         {
             InitializeComponent();
         }
