@@ -48,3 +48,28 @@ C:\Users\Tamaz\Desktop\CarRental\CarRentalUnitTest\obj\Debug\CarRentalUnitTest.c
 C:\Users\Tamaz\Desktop\CarRental\CarRentalUnitTest\obj\Debug\CarRentalUnitTest.dll
 C:\Users\Tamaz\Desktop\CarRental\CarRentalUnitTest\obj\Debug\CarRentalUnitTest.pdb
 C:\Users\papav\OneDrive\Рабочий стол\Учебная практика\CarRental\CarRentalUnitTest\bin\Debug\CarRentalUnitTest.dll.config
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRentalUnitTest\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRentalUnitTest\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRentalUnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRentalUnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRentalUnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRentalUnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRentalUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRentalUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRentalUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRentalUnitTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRentalUnitTest\bin\Debug\CarRentalUnitTest.dll.config
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRentalUnitTest\bin\Debug\CarRentalUnitTest.dll
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRentalUnitTest\bin\Debug\CarRentalUnitTest.pdb
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRentalUnitTest\bin\Debug\CarRental.exe
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRentalUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRentalUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRentalUnitTest\bin\Debug\CarRental.pdb
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRentalUnitTest\bin\Debug\CarRental.exe.config
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRentalUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRentalUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRentalUnitTest\obj\Debug\CarRentalUnitTest.csproj.AssemblyReference.cache
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRentalUnitTest\obj\Debug\CarRentalUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRentalUnitTest\obj\Debug\CarRentalUnitTest.csproj.CopyComplete
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRentalUnitTest\obj\Debug\CarRentalUnitTest.dll
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRentalUnitTest\obj\Debug\CarRentalUnitTest.pdb

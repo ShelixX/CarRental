@@ -53,3 +53,31 @@ C:\Users\Tamaz\Desktop\CarRental\CarRental\bin\Debug\System.Threading.Tasks.Exte
 C:\Users\Tamaz\Desktop\CarRental\CarRental\bin\Debug\System.ValueTuple.xml
 C:\Users\Tamaz\Desktop\CarRental\CarRental\obj\Debug\CarRental.csproj.CopyComplete
 C:\Users\papav\OneDrive\Рабочий стол\Учебная практика\CarRental\CarRental\obj\Debug\CarRental.CarRental.resources
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRental\bin\Debug\CarRental.exe.config
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRental\bin\Debug\CarRental.exe
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRental\bin\Debug\CarRental.pdb
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRental\bin\Debug\System.Buffers.dll
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRental\bin\Debug\System.Memory.dll
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRental\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRental\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRental\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRental\bin\Debug\System.ValueTuple.dll
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRental\bin\Debug\System.Buffers.xml
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRental\bin\Debug\System.Memory.xml
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRental\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRental\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRental\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRental\bin\Debug\System.ValueTuple.xml
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRental\obj\Debug\CarRental.csproj.AssemblyReference.cache
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRental\obj\Debug\CarRental.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRental\obj\Debug\CarRental.Car.resources
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRental\obj\Debug\CarRental.ClientsEdit.resources
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRental\obj\Debug\CarRental.User.resources
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRental\obj\Debug\CarRental.CarRental.resources
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRental\obj\Debug\CarRental.Properties.Resources.resources
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRental\obj\Debug\CarRental.StatusEdit.resources
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRental\obj\Debug\CarRental.csproj.GenerateResource.cache
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRental\obj\Debug\CarRental.csproj.CoreCompileInputs.cache
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRental\obj\Debug\CarRental.csproj.CopyComplete
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRental\obj\Debug\CarRental.exe
+C:\Users\Tamaz\Desktop\Учебная практика\CarRental\CarRental\obj\Debug\CarRental.pdb
